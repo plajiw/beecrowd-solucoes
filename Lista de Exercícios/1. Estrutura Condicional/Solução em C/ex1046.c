@@ -1,49 +1,24 @@
-// beecrowd | 1045 - Tipos de Triângulos
+// beecrowd | 1046 - Tempo de Jogo
 
 #include <stdio.h>
 
 int main()
 {
-    double a, b, c;
+    int hora_inicio, hora_final, duracao;
 
-    scanf("%lf %lf %lf", &a, &b, &c);
+    scanf("%d %d", &hora_inicio, &hora_final);
 
-    double aa = a * a;
-    double bb = b * b;
-    double cc = c * c;
-
-    if (a >= (b + c) || b >= (a + c) || c >= (a + b))
+    if (hora_inicio >= hora_final)
     {
-        printf("NAO FORMA TRIANGULO\n");
+        duracao = (24 + hora_final) - hora_inicio;
     }
 
     else
     {
-        if (aa == (bb + cc) || bb == (aa + cc) || cc == (aa + bb))
-        {
-            printf("TRIANGULO RETANGULO\n");
-        }
-
-        if (aa > (bb + cc) || bb > (aa + cc) || cc > (aa + bb))
-        {
-            printf("TRIANGULO OBTUSANGULO\n");
-        }
-
-        if (aa < (bb + cc) && bb < (aa + cc) && cc < (aa + bb))
-        {
-            printf("TRIANGULO ACUTANGULO\n");
-        }
-
-        if (a == b && b == c)
-        {
-            printf("TRIANGULO EQUILATERO\n");
-        }
-
-        else if (a == b || a == c || b == c)
-        {
-            printf("TRIANGULO ISOSCELES\n");
-        }
+        duracao = hora_final - hora_inicio;
     }
+
+    printf("O JOGO DUROU %d HORA(S)\n", duracao);
 
     return 0;
 }
