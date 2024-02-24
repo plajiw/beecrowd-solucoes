@@ -19,7 +19,7 @@ int main()
         ler_string(descricao[i], sizeof(descricao[i]));
     }
 
-    if (strcmp(descricao[0], "vertebrado") == 0) // strcmp() compara duas strings e retorna 0 se elas forem iguais, um valor negativo se a primeira for menor que a segunda e um valor positivo se a primeira for maior que a segunda.
+    if (strcmp(descricao[0], "vertebrado") == 0)
     {
         if (strcmp(descricao[1], "ave") == 0)
         {
