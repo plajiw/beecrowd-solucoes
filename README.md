@@ -1,6 +1,6 @@
 Repositório de Soluções Beecrowd
 
-Este repositório contém as soluções dos problemas do Beecrowd em diversas linguagens de programação, incluindo C, C++, C#, Java e Python. As soluções foram desenvolvidas como parte do processo de aprendizado e prática, inicialmente para uso acadêmico, mas continuando como uma forma de manter e aprimorar habilidades de programação.
+Este repositório contém as soluções dos problemas do Beecrowd. As soluções foram desenvolvidas como parte do processo de aprendizado e prática, inicialmente para uso acadêmico, mas continuando como uma forma de manter e aprimorar habilidades de programação.
 Organização do Repositório
 
 O repositório está estruturado da seguinte forma:
@@ -8,7 +8,6 @@ O repositório está estruturado da seguinte forma:
     1. Iniciante
 
 Dentro de cada diretório específico da linguagem, os problemas estão organizados de acordo com suas categorias e números correspondentes, para facilitar a localização de uma solução específica.
-
 
 Agradecimentos
 
