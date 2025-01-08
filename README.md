@@ -19,6 +19,7 @@ Por enquanto, todas as soluções estão feitas em **C**, uma linguagem que cons
 ## 🌟 Propósito do Repositório
 
 Este repositório tem como objetivo oferecer apoio educacional, tanto para mim quanto para outros estudantes de programação. As soluções servem como referência para a compreensão de lógica, otimização e resolução de problemas. Praticar com os desafios do Beecrowd é uma excelente forma de desenvolver habilidades analíticas, úteis em competições de programação, entrevistas técnicas e no aprimoramento das habilidades de programação de forma geral.
+
 ---
 
 ## ⚠️ Aviso Importante
