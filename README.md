@@ -1,33 +1,39 @@
 # Repositório de Soluções Beecrowd
 
-Este repositório contém minhas soluções para problemas da plataforma [Beecrowd](https://www.beecrowd.com.br/), desenvolvidas como parte do meu processo de aprendizado e prática de programação. Originalmente criado para fins acadêmicos, o projeto agora é disponibilizado para aqueles que também desejam estudar, praticar e aprimorar suas habilidades de programação.
+Este repositório reúne minhas soluções para os desafios da plataforma [Beecrowd](https://www.beecrowd.com.br/), desenvolvidas como parte do meu aprendizado em programação e aprimoramento de lógica. Originalmente criado para acompanhar meu progresso acadêmico, agora também serve como uma fonte de referência para outros estudantes interessados em explorar técnicas e abordagens para resolver problemas computacionais.
 
 ## Estrutura do Repositório
 
-Para facilitar a navegação e localização de soluções específicas, o repositório está organizado por nível de dificuldade e categorias de problemas.
-
-Dentro de cada categoria, as soluções estão separadas por linguagem e nomeadas de acordo com a numeração e a categoria original do Beecrowd, facilitando a busca por soluções específicas.
+Para facilitar a organização e navegação, as soluções estão agrupadas por **nível de dificuldade** e **categoria de problemas**.  
+Dentro de cada categoria, os códigos são classificados por linguagem de programação e seguem o padrão de numeração da plataforma Beecrowd, permitindo localizar facilmente as respostas para problemas específicos.
 
 ## Tecnologias e Linguagens Utilizadas
 
-Atualmente, as soluções estão implementadas em **C**, mas meu objetivo é expandir para **C++**, **C#** e **Python** no futuro. O uso de múltiplas linguagens permite uma prática mais ampla em diferentes sintaxes e paradigmas, reforçando o aprendizado de algoritmos em diversas plataformas.
+As soluções, neste momento, estão escritas em **C**, mas pretendo expandir para **C++** e **C#** futuramente. Escolhi essas linguagens porque são amplamente usadas no desenvolvimento de algoritmos e possuem características que ajudam a explorar diferentes paradigmas de programação.
 
-## Objetivo
+## Propósito do Repositório
 
-Este repositório tem como objetivo oferecer apoio educacional, tanto para mim quanto para outros estudantes de programação. As soluções servem como referência para a compreensão de lógica, otimização e resolução de problemas. Praticar com os desafios do Beecrowd é uma excelente forma de desenvolver habilidades analíticas, úteis em competições de programação, entrevistas técnicas e no aprimoramento das habilidades de programação de forma geral.
+Meu objetivo com este projeto é não apenas acompanhar minha evolução como programador, mas também contribuir com a comunidade de estudantes e entusiastas da programação. Este repositório funciona como:
+
+- Um local para revisar e estudar soluções otimizadas;
+- Um guia para melhorar a lógica de programação e resolução de problemas;
+- Uma ferramenta de prática, com exemplos reais de como enfrentar desafios em plataformas competitivas.
+
+Resolvendo os problemas do Beecrowd, desenvolvo não só habilidades técnicas úteis para entrevistas e competições, mas também competências práticas aplicáveis no desenvolvimento de software.
 
 ## Agradecimentos
 
-A plataforma Beecrowd é uma ferramenta essencial para qualquer programador em busca de desafios que ampliem suas habilidades. Agradeço à comunidade do Beecrowd por fornecer essa rica variedade de problemas que ajudam no desenvolvimento técnico contínuo.
+A plataforma Beecrowd tem sido essencial para meu desenvolvimento em algoritmos e programação. Agradeço à comunidade por tornar essa experiência acessível, com desafios que vão do básico ao avançado, proporcionando aprendizado constante.
 
-## Aviso Legal
+## Aviso Importante
 
-As soluções presentes neste repositório são disponibilizadas exclusivamente para fins educacionais. Recomendo que os usuários tentem resolver os problemas por conta própria antes de consultar as respostas aqui fornecidas.
+As soluções compartilhadas neste repositório têm um propósito exclusivamente educacional. Recomendo fortemente que os problemas sejam tentados individualmente antes de recorrer às respostas aqui fornecidas. O uso consciente e ético deste material é fundamental para garantir o aprendizado genuíno.  
 
-**Nota**: Este repositório não deve ser utilizado para burlar atividades acadêmicas ou em situações onde o uso de soluções prontas seria considerado plágio. Todo o conteúdo compartilhado tem como único propósito o apoio ao aprendizado honesto e responsável.
+**Nota**: Este conteúdo não deve ser utilizado para infringir regras acadêmicas, competições ou qualquer situação em que seja proibido consultar soluções prontas.
 
 ---
 
-**Autor**: [Pablo Ribeiro](https://github.com/plajiw)
+**Autor**: [Pablo Ribeiro](https://github.com/plajiw)  
+Estudante de Ciência da Computação, entusiasta de algoritmos e amante de desafios computacionais.
 
-Este repositório está em constante atualização, com o objetivo de agregar novas soluções e expandir para outras linguagens de programação. Sinta-se à vontade para explorar e estudar o conteúdo.
+O repositório será atualizado frequentemente com novas soluções e melhorias. Sinta-se à vontade para explora-lo!
