@@ -6,7 +6,11 @@ Este repositório reúne as soluções que desenvolvi para os desafios da plataf
 
 ## 📂 Estrutura do Repositório
 
-Para deixar tudo mais organizado e fácil de encontrar, as soluções estão separadas por nível de dificuldade e por categorias de problemas. Dentro de cada categoria, os códigos seguem a numeração usada no próprio Beecrowd, o que facilita muito para localizar e entender cada solução.
+Para deixar tudo mais organizado e fácil de encontrar, as soluções estão separadas por linguagem e por categorias de problemas. Dentro de cada categoria, os códigos seguem a numeração usada no próprio Beecrowd, o que facilita muito para localizar e entender cada solução.
+
+- [Exercícios resolvidos em C](./C)
+- [Exercícios resolvidos em C++](./C++)
+- [Exercícios resolvidos em C#](./C#)
 
 ---
 
