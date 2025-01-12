@@ -4,14 +4,14 @@
             "name": "MSYS2-GCC",
             "includePath": [
                 "${workspaceFolder}/**",
-                "C:/msys64/mingw64/include"  // Inclua o caminho das bibliotecas do MSYS2
+                "C:/mingw/include"  // Inclua o caminho das bibliotecas do MSYS2
             ],
             "defines": [
                 "_DEBUG",
                 "UNICODE",
                 "_UNICODE"
             ],
-            "compilerPath": "C:/msys64/mingw64/bin/g++.exe",  // Caminho para o GCC do MSYS2
+            "compilerPath": "C:/mingw/bin/g++.exe",  // Caminho para o GCC do MSYS2
             "cStandard": "c17",
             "cppStandard": "c++17",
             "intelliSenseMode": "gcc-x64"  // Altere para gcc-x64

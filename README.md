@@ -12,7 +12,11 @@ Para deixar tudo mais organizado e fácil de encontrar, as soluções estão sep
 
 ## 🛠️ Tecnologias e Linguagens Utilizadas
 
-Por enquanto, todas as soluções estão feitas em **C**, uma linguagem que considero ideal para trabalhar com lógica e conceitos básicos de algoritmos. No entanto, pretendo expandir para **C++** e **C#** no futuro, explorando novas sintaxes e paradigmas para ampliar ainda mais minha visão sobre programação e algoritmos.
+Por enquanto, a maioria das soluções está sendo desenvolvida em **C++**, que será o foco principal deste repositório. C++ oferece um conjunto poderoso de ferramentas, permitindo explorar tanto os fundamentos de algoritmos quanto paradigmas modernos
+
+Além disso, algumas soluções também serão implementadas em **C**, uma linguagem ideal para reforçar conceitos básicos de lógica e manipulação de memória, permitindo um entendimento aprofundado das bases da programação.
+
+Por fim, **C#** será utilizado para explorar conceitos modernos e aplicações práticas, como a programação orientada a objetos e o desenvolvimento de software. O uso de C# complementará o aprendizado ao oferecer uma visão mais ampla sobre paradigmas de programação e ferramentas de alto nível.
 
 ---
 

@@ -1,2 +1,12 @@
 # Ignora a pasta de configurações do Visual Studio Code
 .vscode/
+
+# Ignora executáveis e arquivos de saída
+*.exe
+*.out
+*.o
+*.obj
+*.json
+
+# Ignora diretórios de saída
+/output/
