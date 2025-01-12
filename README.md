@@ -8,9 +8,9 @@ Este repositório reúne as soluções que desenvolvi para os desafios da plataf
 
 Para deixar tudo mais organizado e fácil de encontrar, as soluções estão separadas por linguagem e por categorias de problemas. Dentro de cada categoria, os códigos seguem a numeração usada no próprio Beecrowd, o que facilita muito para localizar e entender cada solução.
 
-- [Exercícios resolvidos em C](./C)
-- [Exercícios resolvidos em C++](./C++)
-- [Exercícios resolvidos em C#](./C#)
+- [Exercícios resolvidos em C](github.com/plajiw/beecrowd-solucoes/tree/main/C)
+- [Exercícios resolvidos em C++](github.com/plajiw/beecrowd-solucoes/tree/main/C%2B%2B)
+- [Exercícios resolvidos em C#](github.com/plajiw/beecrowd-solucoes/tree/main/C%23)
 
 ---
 
