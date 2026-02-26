@@ -44,7 +44,6 @@ int main()
     int comprimento = tamanhoString(msg);
     int posicaoVirgula = 0;
 
-    // Loop para encontrar a posição da vírgula
     for (int i = 0; i < comprimento; i++)
     {
         if (msg[i] == ',')
@@ -56,7 +55,6 @@ int main()
 
     if (posicaoVirgula)
     {
-        // Loop para imprimir até a vírgula
         for (int i = 0; i < posicaoVirgula; i++)
         {
             cout << msg[i];
@@ -64,7 +62,6 @@ int main()
 
         cout << endl;
 
-        // Loop para imprimir após a vírgula
         for (int j = posicaoVirgula + 1; j < comprimento; j++)
         {
             cout << msg[j];

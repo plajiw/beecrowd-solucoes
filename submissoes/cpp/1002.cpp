@@ -1,7 +1,7 @@
 // beecrowd | 1002 - Área do Círculo
 
 #include <iostream>
-#include <iomanip> // Para setprecision
+#include <iomanip>
 using namespace std;
 
 const double PI = 3.14159;

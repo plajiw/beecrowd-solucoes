@@ -7,7 +7,7 @@ int main()
 {
     int A, B, X;
 
-    cin >> A >> B; // Lê os valores de A e B a partir da entrada padrão
+    cin >> A >> B;
 
     X = A + B;
 

@@ -14,7 +14,7 @@ int main()
     while (getline(cin, nome))
     {
         cin >> distancia;
-        cin.ignore(); // Ignora o '\n' no buffer
+        cin.ignore();
 
         soma += distancia;
         count++;

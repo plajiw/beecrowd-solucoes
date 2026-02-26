@@ -8,9 +8,8 @@ Este repositório reúne as soluções que desenvolvi para os desafios da plataf
 
 Para deixar tudo mais organizado e fácil de encontrar, as soluções estão separadas por linguagem e por categorias de problemas. Dentro de cada categoria, os códigos seguem a numeração usada no próprio Beecrowd, o que facilita muito para localizar e entender cada solução.
 
-- [Exercícios resolvidos em C](./C)
-- [Exercícios resolvidos em C++](./C%2B%2B)
-- [Exercícios resolvidos em C#](./C%23)
+- [Exercícios resolvidos em C](./submissoes/c/)
+- [Exercícios resolvidos em C++](./submissoes/cpp/)
 
 ---
 
@@ -19,8 +18,6 @@ Para deixar tudo mais organizado e fácil de encontrar, as soluções estão sep
 Por enquanto, a maioria das soluções está sendo desenvolvida em **C++**, que será o foco principal deste repositório. C++ oferece um conjunto poderoso de ferramentas, permitindo explorar tanto os fundamentos de algoritmos quanto paradigmas modernos
 
 Além disso, algumas soluções também serão implementadas em **C**, uma linguagem ideal para reforçar conceitos básicos de lógica e manipulação de memória, permitindo um entendimento aprofundado das bases da programação.
-
-Por fim, **C#** será utilizado para explorar conceitos modernos e aplicações práticas, como a programação orientada a objetos e o desenvolvimento de software. O uso de C# complementará o aprendizado ao oferecer uma visão mais ampla sobre paradigmas de programação e ferramentas de alto nível.
 
 ---
 

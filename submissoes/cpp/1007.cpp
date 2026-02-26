@@ -10,7 +10,7 @@ int main()
 
     cin >> A >> B >> C >> D;
 
-    dif = (A * B) - (C * D); // Diferença entre os valores
+    dif = (A * B) - (C * D);
 
     cout << "DIFERENCA = " << dif << endl;
 

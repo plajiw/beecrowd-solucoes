@@ -10,7 +10,7 @@ int main()
 
     cin >> X >> Y;
 
-    PROD = X * Y; // PROD é o produto de X e Y
+    PROD = X * Y;
 
     cout << "PROD = " << PROD << endl;
 

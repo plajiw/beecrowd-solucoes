@@ -10,12 +10,12 @@ int main()
     int proximo_par;
 
     if (X % 2 == 0)
-    { // Entrada é par
+    { 
         proximo_par = X + 2;
     }
 
     else
-    { // Entrada é ímpar
+    { 
         proximo_par = X + 1;
     }
 
