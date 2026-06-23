@@ -19,7 +19,7 @@ Soluções para os desafios da [Beecrowd](https://www.beecrowd.com.br/), organiz
 
 > **Obs.:** Embora C++ permita implementar a mesma estrutura de código de C, as soluções ficaram separadas por linguagem de propósito, para fins de aprendizado e familiaridade com cada estrutura.
 >
-> *Although C++ can implement C-style code, the solutions are kept separate by design — for learning purposes and to practice each language independently.*
+> *Although C++ can implement C-style code, the solutions are kept separate by design, for learning purposes and to practice each language independently.*
 
 ---
 
