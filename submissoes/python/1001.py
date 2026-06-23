@@ -1,7 +1,7 @@
-# beecrowd | 1003 - Simple Sum
+# beecrowd | 1001 - Extremely Basic
 
 # -*- coding: utf-8 -*-
+
 a = int(input())
 b = int(input())
-
-print(f"SOMA = {a + b}")
+print(f"X = {a + b}")

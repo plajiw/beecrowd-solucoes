@@ -6,5 +6,5 @@ pA = 3.5
 pB = 7.5
 a = float(input())
 b = float(input())
-media = ((a * pA) + (b * pB)) / (pA + pB)
-print(f'MEDIA = {media:.5f}')
+media = (a * pA + b * pB) / (pA + pB)
+print(f"MEDIA = {media:.5f}")
