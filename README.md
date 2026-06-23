@@ -1,40 +1,34 @@
-# 📚 Repositório de Soluções Beecrowd
+# Soluções Beecrowd
 
-Este repositório reúne as soluções que desenvolvi para os desafios da plataforma [Beecrowd](https://www.beecrowd.com.br/). Ele surgiu como parte do meu aprendizado em programação e para fortalecer minhas habilidades em lógica. No início, o foco era acompanhar meu progresso acadêmico, mas acabou se tornando também um recurso para outros estudantes que, assim como eu, buscam explorar diferentes formas de resolver problemas.
+Soluções para os desafios da [Beecrowd](https://www.beecrowd.com.br/), organizadas por linguagem. Útil pra quem quer ver diferentes abordagens para um mesmo problema.
 
----
-
-## 📂 Estrutura do Repositório
-
-Para deixar tudo mais organizado e fácil de encontrar, as soluções estão separadas por linguagem e por categorias de problemas. Dentro de cada categoria, os códigos seguem a numeração usada no próprio Beecrowd, o que facilita muito para localizar e entender cada solução.
-
-- [Exercícios resolvidos em C](./submissoes/c/)
-- [Exercícios resolvidos em C++](./submissoes/cpp/)
+*Solutions for [Beecrowd](https://www.beecrowd.com.br/) challenges, organized by language. Useful for anyone looking at different approaches to the same problem.*
 
 ---
 
-## 🛠️ Tecnologias e Linguagens Utilizadas
+## Estrutura / Structure
 
-Por enquanto, a maioria das soluções está sendo desenvolvida em **C++**, que será o foco principal deste repositório. C++ oferece um conjunto poderoso de ferramentas, permitindo explorar tanto os fundamentos de algoritmos quanto paradigmas modernos
+| Linguagem / Language | Pasta / Folder                                     |
+|----------------------|----------------------------------------------------|
+| C                    | [submissoes/c/](./submissoes/c/)                   |
+| C++                  | [submissoes/cpp/](./submissoes/cpp/)               |
+| C#                   | [submissoes/csharp/](./submissoes/csharp/)         |
+| Python               | [submissoes/python/](./submissoes/python/)         |
+| Java                 | [submissoes/java/](./submissoes/java/)             |
+| JavaScript           | [submissoes/javascript/](./submissoes/javascript/) |
 
-Além disso, algumas soluções também serão implementadas em **C**, uma linguagem ideal para reforçar conceitos básicos de lógica e manipulação de memória, permitindo um entendimento aprofundado das bases da programação.
-
----
-
-## 🌟 Propósito do Repositório
-
-Este repositório tem como objetivo oferecer apoio educacional, tanto para mim quanto para outros estudantes de programação. As soluções servem como referência para a compreensão de lógica, otimização e resolução de problemas. Praticar com os desafios do Beecrowd é uma excelente forma de desenvolver habilidades analíticas, úteis em competições de programação, entrevistas técnicas e no aprimoramento das habilidades de programação de forma geral.
-
----
-
-## ⚠️ Aviso Importante
-
-Este repositório foi criado com foco educacional e deve ser usado de forma responsável. Recomendo que você tente resolver os problemas por conta própria antes de consultar as soluções que compartilhei aqui. O aprendizado está no processo de tentativa e erro.
-
-**Nota:** Por favor, não utilize este material para infringir regras acadêmicas, competições ou qualquer situação onde consultar soluções prontas seja proibido. Use com ética e responsabilidade.
+> **Obs.:** Embora C++ permita implementar a mesma estrutura de código de C, as soluções ficaram separadas por linguagem de propósito, para fins de aprendizado e familiaridade com cada estrutura.
+>
+> *Although C++ can implement C-style code, the solutions are kept separate by design — for learning purposes and to practice each language independently.*
 
 ---
 
-**Autor**: [Pablo Ribeiro](https://github.com/plajiw)  
+## Aviso / Notice
 
-O repositório está sempre sendo atualizado com novas soluções e melhorias. Sinta-se à vontade para explorá-lo, aprender e, quem sabe, contribuir com ideias e sugestões!
+Tente resolver os problemas por conta própria antes de consultar as soluções. Não utilize este material para infringir regras acadêmicas, competições ou qualquer situação onde consultar soluções prontas seja proibido.
+
+*Try to solve the problems on your own before looking here. Don't use this material to break academic or competition rules.*
+
+---
+
+**Autor / Author**: [Pablo Ribeiro](https://github.com/plajiw)
