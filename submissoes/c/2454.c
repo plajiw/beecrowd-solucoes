@@ -1,18 +1,19 @@
 // beecrowd | 2454 - Flíper
 
 #include <stdio.h>
- 
-int main() {
- 
+
+int main()
+{
+
     int P, R;
-    
+
     scanf("%i %i", &P, &R);
-    
-    if(P == 0)
+
+    if (P == 0)
     {
         printf("C\n");
     }
-    else if(R == 0)
+    else if (R == 0)
     {
         printf("B\n");
     }
@@ -20,6 +21,6 @@ int main() {
     {
         printf("A\n");
     }
-    
+
     return 0;
 }
